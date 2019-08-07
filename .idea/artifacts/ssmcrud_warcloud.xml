@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="ssmcrud:warcloud">
+    <output-path>$PROJECT_DIR$/out/artifacts/ssmcrud_warcloud</output-path>
+    <root id="archive" name="ssmcrud_warcloud.war">
+      <element id="artifact" artifact-name="ssmcrud:war exploded" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp" />
+    </root>
+  </artifact>
+</component>

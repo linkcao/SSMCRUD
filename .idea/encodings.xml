@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcherServlet-servlet.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/jquery-1.12.4.min.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/static/bootstrap-3.3.7-dist" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/static/js" charset="GBK" />
+  </component>
+</project>
